@@ -1,4 +1,4 @@
-# SaveIt 🌿💚  
+# SaveIt 🐿️💚  
 O **SaveIt** é uma aplicação desenvolvida pela equipe **Essentia** com o propósito de auxiliar indústrias alimentícias a reduzirem o desperdício de insumos por meio de uma gestão de estoque mais eficiente e integrada.  
 O projeto busca promover a sustentabilidade na indústria alimentícia, conectando empresas e comércios locais em uma rede colaborativa que une tecnologia, eficiência e consciência ambiental.
 
@@ -29,5 +29,6 @@ O **SaveIt** tem como objetivo transformar a forma como as indústrias gerenciam
 ### **Outras Ferramentas**
 - Git & GitHub (versionamento)  
 - Render, Neon e AWS (hospedagem cloud)  
-- Firebase (armazenamento e autenticação)  
+- Firebase (autenticação)
+- Cloudinary (armazenamento de imagens)  
 - Figma (design e prototipagem)
